@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.joanzapata.pdfview:android-pdfview:1.0.4@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91ff80aac60a5ef2851bd4eaa6aad84a/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91ff80aac60a5ef2851bd4eaa6aad84a/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52204cf76010e254f6644269bfb62d4a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/52204cf76010e254f6644269bfb62d4a/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
